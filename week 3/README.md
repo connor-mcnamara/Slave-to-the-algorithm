@@ -4,4 +4,4 @@
 ## Summary:
 
 ## Non-Human Drawing Machine:
-![Week 3](DrawingWheel1.jpg)
+![alt tag](http://url/to/DrawingWheel1.jpg) 
