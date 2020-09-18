@@ -30,5 +30,6 @@ Coin flip: Heads
 
 So the video I’m watching with lunch is “7 Things to Know about Drill Sergeants //Watch BEFORE Basic Training!! | ☆Bonus Content☆”
 
+
 Resources: 
 Random Word Generator used in 12 hour challege: https://randomwordgenerator.com/
