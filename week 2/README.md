@@ -1,8 +1,8 @@
-<h1> Summary:  
+#Summary:  
 
 
 
-<12 hour challege:
+12 hour challege:
 
 As I didn’t record the outcome of my first 12 hour challenge process and outcomes I decided to do the challenge again, to decide what Youtube video I would watch while eating my lunch today. 
 
