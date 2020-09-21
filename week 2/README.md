@@ -68,9 +68,13 @@ void keyPressed(){
 
 
 
-## Artist Research.
+## Artist Research:
+I decied to have a look into some of the artist mentioned in the presnetation, in doing so, I found a diverse range of intersting projects, below is one of my favourites from my research.
+
+### "Splotch" By Sol Lewitt
 
 
 
-## Resources: 
+## Resources & References: 
 Random Word Generator used in 12 hour challege: https://randomwordgenerator.com/
+"Splotch", Sol Lewitt: http://makyifong.blogspot.com/2012/11/generative-art-sol-lewitt.html
