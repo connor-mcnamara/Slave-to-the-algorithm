@@ -37,7 +37,7 @@ Coin flip: Heads
 
 So the video I’m watching with lunch is “7 Things to Know about Drill Sergeants //Watch BEFORE Basic Training!! | ☆Bonus Content☆”
 
-![](week%202/12%20hour%20challenge.png)
+![](12%20hour%20challenge.png)
 
 ## First Processing Sketch 
 Later on, we then we into Processing to have a go at creating our first sketch.  We started by learn some basic JAVA code to create things such  lines, ellipses, rectangles, and giving them colour and/or stroke, We also experimented with having the colour or postion on the page be controlled by the mouse which utilising the Mouse X, Mouse Y functions. The ultimate goal of this task was to create a self-portrait. 
@@ -68,7 +68,8 @@ void keyPressed(){
   background (mouseY/2, (mouseY+mouseX)/4, 255-mouseX/2);
 }
 
-
+![](SelfPortrait1.png)
+![](SelfPortrait2.png)
 
 ## Artist Research:
 I decied to have a look into some of the artist mentioned in the presnetation, in doing so, I found a diverse range of intersting projects, below is one of my favourites from my research.
@@ -76,6 +77,7 @@ I decied to have a look into some of the artist mentioned in the presnetation, i
 ### "Splotch" By Sol Lewitt
 This piece by Sol Lewitt really captured my attention. The form and color distribution were generated through a LeWittian system of projections from a two-dimensional base. An irregular, eccentric outline was used as the footprint of the structure. A one segmented plan within that outline was devised for color and a second plan for height. Finally a three-dimensional computer modelling software was used to produce that model of the work creating this eye catching piece.
 
+![](Splotch.jpg)
 
 ## Resources & References: 
 Random Word Generator used in 12 hour challege: https://randomwordgenerator.com/
