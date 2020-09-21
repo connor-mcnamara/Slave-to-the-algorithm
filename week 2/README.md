@@ -37,6 +37,8 @@ Coin flip: Heads
 
 So the video I’m watching with lunch is “7 Things to Know about Drill Sergeants //Watch BEFORE Basic Training!! | ☆Bonus Content☆”
 
+![](week%202/12%20hour%20challenge.png)
+
 ## First Processing Sketch 
 Later on, we then we into Processing to have a go at creating our first sketch.  We started by learn some basic JAVA code to create things such  lines, ellipses, rectangles, and giving them colour and/or stroke, We also experimented with having the colour or postion on the page be controlled by the mouse which utilising the Mouse X, Mouse Y functions. The ultimate goal of this task was to create a self-portrait. 
 
