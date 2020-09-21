@@ -1,6 +1,11 @@
 # Week 2
 
 ## Summary:  
+At the start of this week’s class we discussed the 12 hour challenge and looked at everyone’s challenges which we had done for homework, I explained how I completed the challenge whist creating a brochure for another assignment, by adding a variable of change to the selection of type and colour, it’s fair to say the brochure turned out very interesting, although I didn’t record my results for this challenge so I decided I would redo it within my lunch hour. 
+
+We then took a look into instruction design and algorithmic art from artists such as Sol Lewitt and Manfred Mohr, which was rather interesting and gave me a bit of a feel for the potential in the generative realm. 
+
+In the second half of this class we fired up Processing (which was exciting for me) and began playing around with JAVA to create a self portrait.
 
 
 
@@ -31,6 +36,41 @@ Selected video: “7 Things to Know about Drill Sergeants //Watch BEFORE Basic T
 Coin flip: Heads 
 
 So the video I’m watching with lunch is “7 Things to Know about Drill Sergeants //Watch BEFORE Basic Training!! | ☆Bonus Content☆”
+
+## First Processing Sketch 
+Later on, we then we into Processing to have a go at creating our first sketch.  We started by learn some basic JAVA code to create things such  lines, ellipses, rectangles, and giving them colour and/or stroke, We also experimented with having the colour or postion on the page be controlled by the mouse which utilising the Mouse X, Mouse Y functions. The ultimate goal of this task was to create a self-portrait. 
+
+While mine self portrait was very simple (basic face, with colour change mouth) it was fun to play around with processing and get a feel for coding in a way that was not to daunting. 
+
+### Sketch Code
+void setup(){
+background(0);
+size (500, 500);
+}  
+
+void draw(){
+fill(230, 200,180);
+ellipse (250, 250, 150,200);
+fill(255);
+ellipse (220, 210, 40,40);
+ellipse (280, 210, 40,40);
+fill (0);
+ellipse (220, 210, 15,15);
+ellipse (280, 210, 15,15);
+fill(mouseX/2, mouseY/2, (mouseX + mouseY)/4);
+ellipse (250, 280, 70,30);
+noStroke();
+}
+  
+void keyPressed(){
+  background (mouseY/2, (mouseY+mouseX)/4, 255-mouseX/2);
+}
+
+
+
+## Artist Research.
+
+
 
 ## Resources: 
 Random Word Generator used in 12 hour challege: https://randomwordgenerator.com/
