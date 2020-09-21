@@ -6,7 +6,7 @@ In this session we looked at some work from artists within the realm of rules ba
 
 ## Non-Human Drawing Machine Examples:
 
-### Notable Artists:
+### Works of Noteriety:
 
 
 ## Non-Human Drawing Machine Activity:
