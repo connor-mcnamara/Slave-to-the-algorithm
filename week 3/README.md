@@ -5,5 +5,7 @@
 
 ## Non-Human Drawing Machine:
 
-![](week 3/DrawingWheel1.JPG)
-
+![](DrawingWheelPlan.JPG)
+![](DrawingWheel1.JPG)
+![](DrawingWheel.gif)
+![](DrawingWheel2.JPG)
