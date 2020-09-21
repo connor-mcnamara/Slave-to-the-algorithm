@@ -22,7 +22,7 @@ Below is a picture of the set up I constructed based on the plan I drew up.
 ![](DrawingWheel1.JPG)
 
 ### Drawing Wheel in action 
-The Gif below shows the machine working upon spinning
+The Gif below shows the machine working upon spinning.
 
 ![](DrawingWheel.gif)
 
@@ -31,7 +31,7 @@ Pictured is the otucome which came from spinning the wheel, as you can see it ge
 
 ![](DrawingWheel3.JPG)
 
-### Suprise Outcome
+### Surprise Outcome
 I actually found the outcome the pen left of the floor (sorry mum) more interesting that the planned outcome, which shows that you can plan everything but sometimes happy accidents can come from unplanned events. 
 ![](DrawingWheel2.JPG)
 
