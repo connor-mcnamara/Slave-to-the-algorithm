@@ -77,4 +77,5 @@ I decied to have a look into some of the artist mentioned in the presnetation, i
 
 ## Resources & References: 
 Random Word Generator used in 12 hour challege: https://randomwordgenerator.com/
+
 "Splotch", Sol Lewitt: http://makyifong.blogspot.com/2012/11/generative-art-sol-lewitt.html
