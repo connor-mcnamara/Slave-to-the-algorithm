@@ -72,7 +72,7 @@ void keyPressed(){
 I decied to have a look into some of the artist mentioned in the presnetation, in doing so, I found a diverse range of intersting projects, below is one of my favourites from my research.
 
 ### "Splotch" By Sol Lewitt
-
+This piece by Sol Lewitt really captured my attention. The form and color distribution were generated through a LeWittian system of projections from a two-dimensional base. An irregular, eccentric outline was used as the footprint of the structure. A one segmented plan within that outline was devised for color and a second plan for height. Finally a three-dimensional computer modelling software was used to produce that model of the work creating this eye catching piece.
 
 
 ## Resources & References: 
