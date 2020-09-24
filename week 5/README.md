@@ -1,7 +1,7 @@
 # Week 5
 
 ## Summary:
-
+This weeks class revolves around pitching our Generative ideas to the rest of the class. 
 ## Pitch Presentation "Articulation Festival"
 
 ### Pitch link:
