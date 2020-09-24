@@ -5,6 +5,7 @@
 ## Project categorisation:
 
 ## Paper prototype exercise:
+![](PaperProto.gif)
 ![](PaperProto3.png)
 
 ## Processing with Sound:
