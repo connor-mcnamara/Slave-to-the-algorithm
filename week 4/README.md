@@ -2,6 +2,6 @@
 
 ## Summary: 
 
-## Processing:
+## Processing Workshop:
 
 
