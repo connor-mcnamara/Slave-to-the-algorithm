@@ -3,5 +3,5 @@
 ## Summary: 
 
 ## Processing Workshop:
-![](WEEK4_2.png)
-![](WEEK4_1.png)
+![](Week4_2.png)
+![](Week4_1.png)
