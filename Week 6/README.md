@@ -1,8 +1,9 @@
 # Week 6 
 
-## Summary:
+
 
 ## Project categorisation:
+At the begining of the class we mapped out are projects in a spreadsheet in order to determine which student projects had similarites. When split into groups based on these similarites, this gave us a chance to chat with other students that had some sort of crossover whether it be big or small in our projects which was beneficial in helping determine some appriate tools and methods to use going forward.
 
 ## Paper prototype exercise:
 The hands on exercise this week involved splitting into small groups and picking a 2d video game to use as a basis for constructing a paper prototype. 
