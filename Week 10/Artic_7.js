@@ -45,8 +45,6 @@ song.play();
 button.hide();
 }
 
-
-
 function draw() {
   background(35, 28, 41);
   
@@ -65,7 +63,7 @@ function draw() {
       image(james, 50,50, 200, 200);
      
       fill(200);
-      text('Click Enter to change colour, Move your head to move the ball', displayWidth/1.96, 850);
+      text('Click Enter to change colour, Move your head to move the ball!', displayWidth/1.96, 850);
       textSize(20);
       fill(255);
       text('Now Playing: James Elliott', 400,65);
@@ -88,6 +86,3 @@ if (keyCode === ENTER) {
 ellipseColor = color(random(255), random(255), random(255));
 }
 }
- 
-   // rect(displayWidth/2.02, 870, 6, 30);
-  //rect(displayWidth/1.99, 870, 6, 30);
