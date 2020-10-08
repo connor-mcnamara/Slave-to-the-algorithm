@@ -25,7 +25,7 @@ function setup() {
   enterbutton.mousePressed(EnterArticulation);
   enterbutton.mouseOver(hoverdarken);
   enterbutton.mouseOut(hoverlighten);
-  visualbg = loadImage('data/visualbg.jpg');
+  visualbg = loadImage('data/visualbg.jpg'); //source: https://www.cntraveller.com/gallery/best-festivals-in-the-world
   bg = loadImage('data/ArtBG.png');
   james = loadImage('data/JamesElliott.jpg');
   landingtext = loadImage('data/landingtext.png');
@@ -99,10 +99,10 @@ function draw() {
      pausebutton.position(displayWidth/2, displayHeight/1.35);
      pausebutton.size(35,35);
      
-     playbutton = createImg('data/playbutton.png');
-     playbutton.mousePressed(playsong);
-     playbutton.position(displayWidth/1.9, displayHeight/1.35);
-     playbutton.size(35,35);
+     //playbutton = createImg('data/playbutton.png');
+     //playbutton.mousePressed(playsong);
+     //playbutton.position(displayWidth/1.9, displayHeight/1.35);
+     //playbutton.size(35,35);
  
 //var songcheck;
   
@@ -131,7 +131,7 @@ function draw() {
       text('Click Enter to change colour, Move your head to move the ball!', displayWidth/1.96, displayHeight/1.4);
       textSize(15);
       fill(255);
-      text('Now Playing: James Elliott', 265,42);
+      text('Now Playing: James Elliott (DJ Set)', 290,42);
       textSize(12)
       ;
       
