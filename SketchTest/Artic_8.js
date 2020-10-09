@@ -15,7 +15,7 @@ function setup() {
   mode = 0;
   enterbutton = createButton('ENTER').style('padding', '25px');
   createCanvas(windowWidth,windowHeight);
-  enterbutton.position(640,500);
+  enterbutton.position(windowWidth/2.2 ,windowHeight/1.6);
   enterbutton.style("background-color", "#8DD9D7");
   enterbutton.style("color", "#FFFFFF");
   enterbutton.style("border-radius", "20px");
