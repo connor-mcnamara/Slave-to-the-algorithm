@@ -104,23 +104,6 @@ function draw() {
      //playbutton.position(displayWidth/1.9, displayHeight/1.35);
      //playbutton.size(35,35);
  
-//var songcheck;
-  
-//if (song.isPlaying()) {
-  // songcheck=1;
-// }else{
-  // songcheck=0;
-// }
- 
-// if (songcheck==1) {
-// pausebutton.show();
-// playbutton.hide();
-//}  
-  
-// if (songcheck==0) {
-// playbutton.show();
-// pausebutton.hide();
-// }
  
       let level = amplitude.getLevel();
       let size = map(level, 0, 1, 100, 900); 
