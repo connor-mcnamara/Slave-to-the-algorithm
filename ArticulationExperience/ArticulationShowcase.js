@@ -35,18 +35,18 @@ landingtext = loadImage('data/landingtext.png');
 //Buttons 
 pausebutton = createImg('data/pausebutton.png');
 pausebutton.mousePressed(pausesong);
-pausebutton.position(displayWidth/2, displayHeight/1.35);
+pausebutton.position(windowWidth/2, windowHeight/1.076);
 pausebutton.size(35,35);
 pausebutton.hide();
   
 playbutton = createImg('data/playbutton.png');
 playbutton.mousePressed(playsong);
-playbutton.position(displayWidth/2, displayHeight/1.35);
+playbutton.position(windowWidth/2, windowHeight/1.076);
 playbutton.size(35,35);
 playbutton.hide();
 
 volumeicon = createImg('data/Volume.png');
-volumeicon.position(displayWidth/1.19, displayHeight/1.34);
+volumeicon.position(windowWidth/1.19, windowHeight/1.076);
 volumeicon.size(22,22);
 volumeicon.hide();
   
@@ -66,7 +66,6 @@ enterbutton.mouseOut(hoverlighten);
 slider = createSlider(0, 1, 0.2, 0.2);
 slider.hide();
 slider.position(windowWidth/1.15,windowHeight/1.076);
-slider.style('background', 'red');
 
 //PoseNet Setup
 video = createCapture(VIDEO); 
