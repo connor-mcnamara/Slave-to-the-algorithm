@@ -26,9 +26,9 @@ ellipseColor = color(141, 217, 215, 180);
 
 
 //Images
-visualbg = loadImage('data/visualbg.jpg'); //source: https://www.cntraveller.com/gallery/best-festivals-in-the-world
-bg = loadImage('data/artbg.jpg');
-james = loadImage('data/JamesElliott.png');
+visualbg = loadImage('data/visualbg.jpg'); 
+bg = loadImage('data/artbg.jpg'); //source: https://www.cntraveller.com/gallery/best-festivals-in-the-world
+james = loadImage('data/JamesElliott.png'); //source: https://www.vanityfair.com/style/2020/03/music-festival-cancellations-coronavirus
 landingtext = loadImage('data/landingtext.png');
   
      
@@ -94,7 +94,7 @@ function hoverlighten() {
 //Pause button when clicked
 function pausesong() {
 if (song.isPlaying()) {
-song.stop();
+song.pause();
 } else {
 song.play();
 }
@@ -108,7 +108,7 @@ playbutton.show();
 //Play button when clicked
 function playsong() {
 if (song.isPlaying()) {
-song.stop();
+song.pause();
 } else {
 song.play();
 }
@@ -122,7 +122,7 @@ function EnterArticulation(){
   mode=1;
   if (mode==1) {
   if (song.isPlaying()) {
-  song.stop();
+  song.pause();
   } else {
 song.play();
   }
