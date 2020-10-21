@@ -35,8 +35,8 @@ I thought there could defintely merit to using this sort of technology at a fest
 #### 'Voice Array' by Rafael Lozano-Hemmer:
 [Video of the system in action](https://www.trendhunter.com/trends/voice-array-by-rafael-lozanohemmer "Video of the system in action")
 
-![](VoiceArray1.jpg)
+![](VoiceArray_1.jpg)
 
-![](VoiceArray2.jpg)
+![](VoiceArray_2.jpg)
 
 
