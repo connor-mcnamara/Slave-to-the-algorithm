@@ -28,7 +28,7 @@ While it’s great that the possibilities are nearly endless for our generative 
 ### Generative Art Examples:
 As the concept I'm playing with primarily revoles around creativing some form of live art display, I spend some time researching some pieces which fit into this field. One display which I found really cool and thought could work/relate directly to a festival environment was [Voice Array](https://www.lozano-hemmer.com/voice_array.php "Voice Array") by [Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/bio.php "Rafael Lozano-Hemmer") a Mexican Media artist working at the intersection of architecture and performance art.
 
-The dispaly works by having a participant speak into an intercom, 'His or her voice is automatically translated into flashes of light and then the unique blinking pattern is stored as a loop in the first light of the array. Each new recording pushes all previous recordings one position down and gradually one can hear the cumulative sound of the 288 previous recordings. The voice that was pushed out of the array can then be heard by itself.'
+The display works by having a participant speak into an intercom, 'His or her voice is automatically translated into flashes of light and then the unique blinking pattern is stored as a loop in the first light of the array. Each new recording pushes all previous recordings one position down and gradually one can hear the cumulative sound of the 288 previous recordings. The voice that was pushed out of the array can then be heard by itself.'
 
 I thought there could defintely merit to using this sort of technology at a festvial, linking sound to the intensity of a light display. 
 
