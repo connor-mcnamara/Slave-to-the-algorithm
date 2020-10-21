@@ -20,7 +20,7 @@ Below is my paper prototype in which I have attempted to highlight the key eleme
 ![](PaperProto.gif)
 
 
-## Processing with Sound in p5.js:
+### Processing with Sound in p5.js:
 In today's class we also completed another workshop, this time looking at sound specifically in p5.js. We looed at how to make elements move based on a sound we we had loaded in using the p5.Amplitude function.
 
 
