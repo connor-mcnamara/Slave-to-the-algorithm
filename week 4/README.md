@@ -6,11 +6,12 @@ During this weeks class we continued to explore different possibilities within p
 ## Processing Hunting and Gathering example:
 While exporing [OpenProcessing](https://www.openprocessing.org/ "OpenProcessing") there where many cool sketches which I stumbled across, a lot of them being quite mesmorising. This sketch 'Glowing anemone' sketch by CHE YU WU was one that caught my eye in particular, I love the way the multiple coloured elments interact especially upon muse movements. 
 
-Sketch Link: https://www.openprocessing.org/sketch/889053#
-
-![](Glowing.gif)
 
 
 ## Processing Workshop:
+
+### Pointillism self drawing sketch based on photo of myself
 ![](Week4_2.png)
+
+### Spinning Typography sketch which leaves a trail
 ![](Week4_1.png)
