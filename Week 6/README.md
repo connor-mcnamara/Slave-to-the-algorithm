@@ -14,6 +14,7 @@ During the exercise, in our collaborate ultra groups we all turns our cameras on
 
 ![](PaperProto3.png)
 
+
 #### My Paper Prototype:
 Below is my paper prototype in which I have attempted to highlight the key elements of functionality within the game.
 
