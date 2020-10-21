@@ -8,7 +8,7 @@ The week leading up to the pitch was mostly spent brainstorming idea and trying 
 ![](PitchTitlePage.png)
 
 #### Pitch link:
-[Articulation Link] (https://docs.google.com/presentation/d/e/2PACX-1vTX7iR91wN05M9mjJxn5TV2suz5eh8qPJ3lzxB-3-ZtxtbXJWrhRufdbpznjyl7dLwiIkUL25ZFgLem/pub?start=false&loop=false&delayms=3000 'Articulation Link')
+[Articulation Link](https://docs.google.com/presentation/d/e/2PACX-1vTX7iR91wN05M9mjJxn5TV2suz5eh8qPJ3lzxB-3-ZtxtbXJWrhRufdbpznjyl7dLwiIkUL25ZFgLem/pub?start=false&loop=false&delayms=3000 "Articulation Link")
 
 ## Pitch Feedback 
 
