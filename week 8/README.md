@@ -1,4 +1,4 @@
-# week 8 
+# Week 8 
 
 ### Summary:
 
@@ -39,3 +39,7 @@ FUNCTION mouse click Visualiser Shape colour changes
 IF pause button is clicked 
 THEN song = stop
 ```
+
+### Class Workshop: 
+
+this week's class 
