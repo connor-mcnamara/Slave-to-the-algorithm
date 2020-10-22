@@ -52,6 +52,11 @@ Even know I've decided no to persue GPX data processing through my research I di
 * The p5.geolaction library could be used for acquiring, watching, calculating, and geofencing user locations in p5.js.
 
 ### Notable GPX Data Art Examples: 
-In my research I found that there are mutltiple entites such as [Loopie](http://www.loopieroute.com/ "Loopie") working in conjuction with Strava to help people take data from there daily running and turn it into art pieces. More details about these options can be found at [Strava Prints](https://www.strava.com/apps/prints "Strava Prints")
+In my research I found that there are mutltiple entites such as [Loopie](http://www.loopieroute.com/ "Loopie") and [Cartorion](https://www.cartorion.com/ "Cartorion")working in conjuction with Strava to help people take data from there daily running and turn it into art pieces. More details about these options can be found at [Strava Prints](https://www.strava.com/apps/prints "Strava Prints")
+
+#### Cartorion GPX Art Examples:
+
+![](StravaPrinteg.png)
+
 
 
