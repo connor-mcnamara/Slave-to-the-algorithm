@@ -2,7 +2,7 @@
 
 ### Summary:
 
-The class started by 
+The class started by going through and having a look and everyone’s different paper prototypes and pseudocode, once again you coud reall see the diverse range of directions people are starting to go in which was exciting. My paper protoype shows the basic concept of how the online visualier I am working towards is going to function, starting with a landing page which then directs to an online environment where there is music and video playing accompanied by on screen visuals. Later in the session we also had another workshop which looked at p5.Speech which was very interesting. 
 
 
 ### Project Paper protype:
