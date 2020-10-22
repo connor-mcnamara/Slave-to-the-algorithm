@@ -17,7 +17,7 @@ Currently with in my P5.js sketch I have managed to load a song and have the bea
 
 ##### Sketch Code: 
 
-
+```
 var song; 
 var analyzer;
 function preload() {
@@ -47,7 +47,7 @@ function draw() {
   noStroke();
 
 }
-
+```
 
 function mousePressed() {
   if (song.isPlaying()) {
