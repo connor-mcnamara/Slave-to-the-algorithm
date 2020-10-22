@@ -10,7 +10,7 @@ In this week's workshop we looked in added multiple canvas' to a sketch. This is
 ![](multiplecanvassketch.png)
 
 ### Project Progress:
-Currently with in my P5.js sketch I have managed to load a song and have the beat/volume of the song determine the shape of the Cube whist it rotates. Going forward, my next big steps will be focused around incorporating user interaction into the sketch and adding an interface to the environment. In order to incorporate more user interactions I plan start investigating and exploring integrating ML5.js PoseNet in my sketch to allow user facial and arm movements have an impact on how the visualiser moves. I would also like to incorporate a mouse or keyboard driven function which has an effect to either the shape or colour of the visualiser.
+Currently with in my P5.js sketch I have managed to load a song and have the beat/volume of the song determine the shape of the Cube whist it rotates. 
 
 ##### Current Sketch:
 ![](Articulation.gif)
@@ -47,7 +47,7 @@ function draw() {
   noStroke();
 
 }
-```
+
 
 function mousePressed() {
   if (song.isPlaying()) {
@@ -59,3 +59,14 @@ function mousePressed() {
     song.play(); 
   }
 }
+```
+
+### Next Steps with project:
+Going forward, my next big steps will be focused around incorporating user interaction into the sketch and adding an interface to the environment. In order to incorporate more user interactions I plan start investigating and exploring integrating ML5.js PoseNet in my sketch to allow user facial and arm movements have an impact on how the visualiser moves. I would also like to incorporate a mouse or keyboard driven function which has an effect to either the shape or colour of the visualiser.
+
+For the interface of the portal, I plan to use my mock ups as a basis for creating a functional user interface to compliment the visualisation. In order to do so I plan on utilising HTML and CSS to develop elements such as buttons and a style guide.
+
+Some other functions I need to work on to achieve full functionality within the system are a load and play video function for the DJ Video window, IF Statements and desired actions for all the buttons and parameters for input data from key presses, mouse clicks and motion tracked plot points.
+
+##### Interface Mock ups:
+
