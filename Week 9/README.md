@@ -6,7 +6,7 @@ This week we started off by having a Milestone Review which has another opportun
 ### p5.js Workshop:
 In this week's workshop we looked in added multiple canvas' to a sketch. This is something that could potentially be useful within my project. 
 
-#### Multiple canvas sketch from class:
+##### Multiple canvas sketch from class:
 ![](multiplecanvassketch.png)
 
 ### Project Progress:
