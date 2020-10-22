@@ -13,7 +13,7 @@ Create an online portal to a virtual festival where people can enter and listen 
 ![](PaperProto.gif)
 
 ### Project Pseudo Code: 
-
+./make.bash
 IF “Enter Virtual Festival’ button is clicked THEN
 show Visualiser
 END IF
