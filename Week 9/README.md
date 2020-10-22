@@ -14,3 +14,48 @@ Currently with in my P5.js sketch I have managed to load a song and have the bea
 
 ##### Current Sketch:
 ![](Articulation.gif)
+
+##### Sketch Code: 
+
+
+var song; 
+var analyzer;
+function preload() {
+ song = loadSound ('data/Bicep-Glue.mp3'); //Load song
+}
+
+function setup() {
+  createCanvas (displayWidth, displayHeight, WEBGL); // sets full display canvas for 3d Shapes
+  background(0);
+  analyzer = new p5.Amplitude();
+  analyzer.setInput(song);
+
+}
+
+function draw() {
+  background(35, 28, 41);
+  var volume = analyzer.getLevel();
+  volume*=1000;
+  ambientLight(50);
+  directionalLight(255, 0, 0, 0.25, 0.25, 0);
+  pointLight(0, 0, 255, 0, 0 , 250);
+  rotateX(frameCount * 0.01); //Sets spinning speed 
+  rotateY(frameCount * 0.01);
+  box(200);
+  box(volume,volume);// sets box size to be dependent on volume 
+  fill(200,200,200);
+  noStroke();
+
+}
+
+
+function mousePressed() {
+  if (song.isPlaying()) {
+     song.stop(); // if the song is playing, stop it
+     song.noLoop();
+  }
+  else {
+    song.loop();
+    song.play(); 
+  }
+}
