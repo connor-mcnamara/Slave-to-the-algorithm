@@ -46,4 +46,4 @@ This week's class workshop was focused around speech recognition in through p5. 
 ### Further Research:
 After the p5.speech sketch in class sparked my interest in the possibilities learning more about speech recognition and smart devices in particular I did some research just out of my own curiosity. Below is a link to a Ted Talk by Kashmir Hill and Surya Mattu which talks about what our smart devices know about us. It's very interesting and even a bit scary the amount of data smart devices is collecting on us through technology much like that which we looked into today.
 
-[What your smart devices know (and share) about you by Kashmir Hill and Surya Mattu] (https://www.ted.com/talks/kashmir_hill_and_surya_mattu_what_your_smart_devices_know_and_share_about_you?language=en#t-270360 "What your smart devices know (and share) about you by Kashmir Hill and Surya Mattu")
+[What your smart devices know (and share) about you by Kashmir Hill and Surya Mattu](https://www.ted.com/talks/kashmir_hill_and_surya_mattu_what_your_smart_devices_know_and_share_about_you?language=en#t-270360 "What your smart devices know (and share) about you by Kashmir Hill and Surya Mattu")
