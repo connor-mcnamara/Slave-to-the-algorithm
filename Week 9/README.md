@@ -69,9 +69,9 @@ For the interface of the portal, I plan to use my mock ups as a basis for creati
 Some other functions I need to work on to achieve full functionality within the system are a load and play video function for the DJ Video window, IF Statements and desired actions for all the buttons and parameters for input data from key presses, mouse clicks and motion tracked plot points.
 
 ##### Current Problems & Possible Solutions:
-Problem : No user interactivity .
-Solution: Add KeyPressed and mouse click functions to the visualisation.
-Problem: No interface.
+* Problem : No user interactivity .
+* Solution: Add KeyPressed and mouse click functions to the visualisation.
+* Problem: No interface.
 Solution: Use HTML and CSS it create incorporate interface .
 Problem: No DJ playing Video
 Solution: Import and load ‘DJ playing video, position in corner.
