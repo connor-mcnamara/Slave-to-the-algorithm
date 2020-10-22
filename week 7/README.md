@@ -9,40 +9,6 @@ Unfortunately I missed this week session, So I missed the in class activities bu
 #### Revised Plan: 
 Create an online portal to a virtual festival where people can enter and listen to DJ sets which are accompanied by a digital visualiser that changes according to the music playing, mouse movements, key presses and wemcam or camera motion.
 
-### Project Paper protype:
-![](PaperProto.gif)
-
-### Project Pseudo Code: 
-```
-IF “Enter Virtual Festival’ button is clicked THEN
-show Visualiser
-END IF
-IF ‘See Tracklist’ button is clicked THEN
-Show tracklist
-END IF
-
-VAR song
-VAR Analyser
-VAR Visualier Shape
-
-FUNCTION preload Song = loadSound “ “
-
-FUNCTION setup Analyser set input song
-Video = createCapture(VIDEO) Detected Caputre = Plot points
-
-FUNCTION draw
-VAR volume = analyser getLevel
-Volume level SETS Visualiser shape size
-
-IF Motion Detected
-THEN
-Visualiser shape position = Plot point position ELSE
-Visualiser Shape (mouseX, MouseY)
-
-FUNCTION mouse click Visualiser Shape colour changes
-IF pause button is clicked 
-THEN song = stop
-```
 
 ### What have I learnt?
 Even know I've decided no to persue GPX data processing through my research I did learn a few things about it and the possibilites of using it. 
