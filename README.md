@@ -4,8 +4,8 @@ This space is a working record of my studio activities, research and project pro
 
 Final Project Link: [**'The Articulation Experience'**, *click to enter*.](https://connor-mcnamara.github.io/Slave-to-the-algorithm/Articulation_/ "**'The Articulation Experience'**, Click to Enter.")
 
-**Week 1:** [Class Introduction](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "Class Introduction")
-**Week 2:**
+**Week 1:** [Class Introduction](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "Class Introduction")/
+**Week 2:** [12 Hour Challenge, First Processing Sketch]([Class Introduction](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "12 Hour Challenge, First Processing Sketch")/
 **Week 3:**
 **Week 4:**
 **Week 5:**
