@@ -3,7 +3,7 @@
 
 This space is a working record of my studio activities, research and project progress.
 
-Final Project, Link: [**The Articulation Experience'**, *click to enter*.](https://connor-mcnamara.github.io/Slave-to-the-algorithm/Articulation_/ "**The Articulation Experience'**, Click to Enter.")
+Final Project Link: [**'The Articulation Experience'**, *click to enter*.](https://connor-mcnamara.github.io/Slave-to-the-algorithm/Articulation_/ "**'The Articulation Experience'**, Click to Enter.")
 
 **Week 1:**
 **Week 2:**
