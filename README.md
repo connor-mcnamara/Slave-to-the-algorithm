@@ -1,9 +1,10 @@
-# 'Slave to the Algorithm'
+##### *By, Connor McNamara*
 
 This space is a working record of my studio activities, research and project progress.
 
 Final Project Link: [**'The Articulation Experience'**, *click to enter*.](https://connor-mcnamara.github.io/Slave-to-the-algorithm/Articulation_/ "**'The Articulation Experience'**, Click to Enter.")
 
+##### Weekly Breakdown:
 **Week 1:** [Introduction](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "Class Introduction")
 
 **Week 2:** [12 Hour Challenge, First Processing Sketch](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "12 Hour Challenge, First Processing Sketch")
@@ -28,4 +29,3 @@ Final Project Link: [**'The Articulation Experience'**, *click to enter*.](https
 
 **Week 12:** [Final Project Showcase & Reflection](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/Week%2012 "Final Project Showcase & Reflection")
 
-###### *By, Connor McNamara*
