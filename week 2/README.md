@@ -45,7 +45,7 @@ Later on, we then we into Processing to have a go at creating our first sketch. 
 
 While mine self portrait was very simple (basic face, with colour change mouth) it was fun to play around with processing and get a feel for coding in a way that was not to daunting. 
 
-#### Sketch Code
+#### Sketch Code:
 void setup(){
 background(0);
 size (500, 500);
