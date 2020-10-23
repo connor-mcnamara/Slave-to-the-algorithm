@@ -8,7 +8,7 @@ Final Project Link: [**'The Articulation Experience'**, *click to enter*.](https
 
 **Week 2:** [12 Hour Challenge, First Processing Sketch](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "12 Hour Challenge, First Processing Sketch")
 
-**Week 3:** [Non-Human Drawing Machines] https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%203 ("Non-Human Drawing Machines")
+**Week 3:** [Non-Human Drawing Machines](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%203 "Non-Human Drawing Machines")
 
 **Week 4:** [Processing with Images & Text, Pitch Development](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%204 "Processing with Images & Text, Pitch Development")
 
