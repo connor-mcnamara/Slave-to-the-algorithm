@@ -26,4 +26,10 @@ In my research I found that there are mutltiple entites such as [Loopie](http://
 ![](StravaPrinteg.png)
 
 
+### Online Festival Inspiration:
 
+**[Tomorrowland Around The World](https://aroundtheworld.tomorrowland.com/ "Tomorrowland Around The World")**
+
+An example work a piece of work which generates an experience muchlike that of what intend to create through ‘Articulation’ was ‘Tomorrowland Around The World’. Tomorrowland is one of, if not the largest andmost iconic dance festivals in the word, hosted in Belgium each year, although due to COVID-19 the festival was canceled. Instead of havinga year without the festival, Tomorrowland decided to create an virtual ‘Tomorrowland Around The World Experience’ which was essentially a 3D online environment which people could click around and explore. The virtual environment multiple stages which you could visit to watch pre-recorded sets, bar stands you could get cocktail recipes from and merchandise stores along with many another small features.
+
+Not only did the event manage to provide the iconic ‘Tomorrowland’ experience for people at home in these challenging times but it was also an extraordinary amalgamation of music and computer science, The digital 3D world of Tomorrowland Around the World has 10 times more polygons and lights compared to a modern computer game, and there were more than 750 virtual lamps per stage, all drawn by hand. In another impressive number, more than 300 TB of raw footage was collected.
