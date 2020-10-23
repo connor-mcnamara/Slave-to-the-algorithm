@@ -23,9 +23,19 @@ Since Last week I have made some soild progess within my project sketch. I have 
 * Explore variation of the visualiser potentially thorugh functions such as (line(x, y, prevX, prevY);).
 * Center buttons with (button.position(width/2 - button.width/2, y);)
 
- **Andy**
- * Experiment with typography/colour... fonts? maybemaybe use an icon (or add a tiny UI) so that some elements are hidden during the experience.
- * Bring the user's experience to the foreground (get the bubbles as big as possible, punch out the effect). 
- * Maybe bubbles change colour based on less obvious variables (rather than adding a control). 
- * Experiment with colours that are less muted. 
- * UI icons can swap with a if/then or while function 
+**Andy**
+* Experiment with typography/colour... fonts? maybemaybe use an icon (or add a tiny UI) so that some elements are hidden during the experience.
+* Bring the user's experience to the foreground (get the bubbles as big as possible, punch out the effect). 
+* Maybe bubbles change colour based on less obvious variables (rather than adding a control). 
+* Experiment with colours that are less muted. 
+* UI icons can swap with a if/then or while function.
+ 
+ 
+### Project Next Steps: 
+The feeedback givien in this session has helped me clearly establish the elements of the project which I will be focusing in advancing over the coming week. I will be specifically focusing on: 
+
+* Loading in my own fonts.
+* Adjuting the UI.
+* Experimenting with the way the ball moves and looks. 
+* Expermeint with having Bthe ball change colour based on less obvious variables.
+* Adjsting overall colour scheme. 
