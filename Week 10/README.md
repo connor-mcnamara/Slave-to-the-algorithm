@@ -11,3 +11,22 @@ Example of how the the balls movement is working of the nose position based on w
 
 ![](Nosetracking.png)
 
+
+##### Project Next Steps:
+* Work on interface.
+* Add some variation to the movements of the visualiser.
+* Work with adding some more interactive elements.
+* Get pause/play button working.
+
+### Expanded Field Research/Inspiration:
+
+##### Artist of Interest:
+[Mark J. Stock](http://markjstock.com/field "Mark J. Stock"), is an artist, scientist, and programmer who creates still and moving images and objects combining elements of nature, physics, chaos, computation, and algorithm. He describes his work as an exploration between the natural world and its simulated counterpart, between organic and inorganic, digital and analog, and structure and fluid. 
+
+I first came across his piece 'Gyre 35700' while looking through some generative art examples on [AI Artists, Generative Art Guide](https://aiartists.org/generative-art-design "AI Artists, Generative Art Guide") and loved the aesthetic which provoked me to look into some of his other works. Exploring his website, I fell in love with the fluidity and organic nature of his generative, algorithmic pieces.
+
+'Gyre 35700' 
+
+'Streamline' By Mark J stock. 'A streamline is a static representation of a dynamic flow. Works in this series were created with an algorithm that was originally designed to study blood flow through artificial heart valves.' [View Project Here](http://markjstock.com/#/streamline/ "View Project Here")
+
+
