@@ -1,3 +1,4 @@
+:arrow_left: [PREVIOUS PAGE](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%201 "PREVIOUS PAGE") | [MENU](https://github.com/connor-mcnamara/Slave-to-the-algorithm/blob/master/README.md "MENU")  | [NEXT PAGE](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%203 "NEXT PAGE") :arrow_right:
 # Week 2
 
 ## Summary:  
