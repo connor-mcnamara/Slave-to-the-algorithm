@@ -1,4 +1,5 @@
-### *By, Connor McNamara*
+### *By, Connor McNamara*.
+
 
 This space is a working record of my studio activities, research and project progress.
 
