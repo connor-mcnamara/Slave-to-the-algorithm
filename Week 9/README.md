@@ -86,3 +86,24 @@ Some other functions I need to work on to achieve full functionality within the 
 ![](Mockup1.png)
 ![](MockUp2.png)
 
+### Project MoSCW Assessment: 
+
+##### Must:
+* Be accessible online.
+* Play Music.
+* Have sound driven visualisation elements.
+* Have user driven visualisation elements.
+
+##### Should:
+* Have a welcome page.
+* Track / Set name listed.
+* Pause feature.
+
+##### Could: 
+* Have motion detect / webcam integration.
+* 3D visualisation elements.
+* Have HTML and CSS style forms.
+
+##### Won't:
+* Have any physical outcomes as stated in original pitch.
+* Live streaming of music.
