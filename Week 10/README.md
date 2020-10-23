@@ -25,10 +25,10 @@ Example of how the the balls movement is working of the nose position based on w
 
 I first came across his piece 'Gyre 35700' while looking through some generative art examples on [AI Artists, Generative Art Guide](https://aiartists.org/generative-art-design "AI Artists, Generative Art Guide") and loved the aesthetic which provoked me to look into some of his other works. Exploring his website, I fell in love with the fluidity and organic nature of his generative, algorithmic pieces.
 
-'Gyre 35700, Field' By Mark J Stock. 'Works in this series were made using a similar algorithmic process in which color is passed from pixel to pixel in a regular grid using a very specific set of instructions. These simple instructions and very limited interaction range nevertheless generate system-level structure and form.' [View Project Here](http://markjstock.com/#/field/ "View Project Here")
+**'Gyre 35700, Field' By Mark J Stock.** 'Works in this series were made using a similar algorithmic process in which color is passed from pixel to pixel in a regular grid using a very specific set of instructions. These simple instructions and very limited interaction range nevertheless generate system-level structure and form.' [View Project Here](http://markjstock.com/#/field/ "View Project Here")
 
 ![](StockMark_Gyre35700_2012.jpg)
 
-'Dynamo, Streamline' By Mark J stock. 'A streamline is a static representation of a dynamic flow. Works in this series were created with an algorithm that was originally designed to study blood flow through artificial heart valves.' [View Project Here](http://markjstock.com/#/streamline/ "View Project Here").
+**'Dynamo, Streamline' By Mark J stock.** 'A streamline is a static representation of a dynamic flow. Works in this series were created with an algorithm that was originally designed to study blood flow through artificial heart valves.' [View Project Here](http://markjstock.com/#/streamline/ "View Project Here").
 
 ![](StockMark_Dynamo_2006.jpg)
