@@ -14,7 +14,14 @@ Last when I received some valuable feedback for Karen, Andy and other students i
 #### Articuation GIF:
 ![](ArticulationGIF640x640.gif)
 
-## Reflective Statement:
+### Project Artist Statment:
+The solution which I have created is a proof of concept for an online portal for a speculative festival ‘Articulation’. The portal presents an environment where people can enter and listen to DJ sets which are accompanied by a digital visualiser that changes according to the music playing,web cam or camera motion.
+This virtual experience was created using Processing P5 Js. with integration of the ml5 Posenet library and the P5 Sound library. Once the user enters the via clicking the ‘enter’ button on the landing page the set DJ set automatically begins playing and the on-screen visualiser begins moving and adapting in relation to the beat of the music playing and the movement detected from the user’s web cam.
+
+With Music and Arts festivals being put on hold due to the current climate of the world, the aim of The Articulation experience is to provide an online environment where people can listen to and enjoy techno and house music sets from some of their favourite DJ’s. The interactive visualiser accompanying the music provides a more immersive and interactive experience for the listener, helping set a more festive like experience with their home’s whist enjoying the music.
+This concept initially formed from my love for electronic music, festivals and my desire to speculate about the potential of a Music and Arts festival which incorporates both live music and generative art displays for a full immersive experience. But I was then inspired to pivot my idea to creating a virtual experience after seeing what some other large players in the electronic music industry such as ‘Defected’ and ‘Tomorrowland’ were doing online to replace there in person festivals.
+
+### Reflective Statement:
 Coming into this class I had very minimal experience with programming and coding, that in a sense was why I chose Slave to the Algorithm, to explore new potentials and challenge myself as a designer. To be honest, at times throughout this semester I definitely underestimated the difficulty and time involved with producing solutions with the coding environment. This did lead to circumstances where I had to evaluate with my skill level, whether or not the ideas in my head possible within the timeframe, often leading to me having to pivot my ideas accordingly.
 
 Although in saying that, when I did spend the time indulging in learning and experimenting with code, it led to me becoming more and more interested in the exploring and understanding the possibilities of code. This studio has definitely opened my eyes to the potential code has to enhance design and open up new doors and opportunity, going forward with my practice I will definitely be more open-minded to going beyond the Adobe Suite to bring ideas to life.
