@@ -71,16 +71,16 @@ Some other functions I need to work on to achieve full functionality within the 
 ##### Current Problems & Possible Solutions:
 :heavy_exclamation_mark: Problem : No user interactivity .
 :white_check_mark: Solution: Add KeyPressed and mouse click functions to the visualisation.
-* Problem: No interface.
-Solution: Use HTML and CSS it create incorporate interface .
-Problem: No DJ playing Video
-Solution: Import and load ‘DJ playing video, position in corner.
-Problem: No motion detection or camera interactivity.
-Solution: Use ML5 PoseNet or Vida Libraries to detect motion and create plot points to be manipulated.
-Problem: Lack of Colour and Diversity of shapes.
-Solution: Experiment with colour and shape changing function.
-Problem: Music only plays and shape only moves on click.
-Solution: Have music play when user choses clicks ‘enter’ from welcome page.
+:heavy_exclamation_mark: Problem: No interface.
+:white_check_mark: Solution: Use HTML and CSS it create incorporate interface .
+:heavy_exclamation_mark: Problem: No DJ playing Video
+:white_check_mark: Solution: Import and load ‘DJ playing video, position in corner.
+:heavy_exclamation_mark: Problem: No motion detection or camera interactivity.
+:white_check_mark: Solution: Use ML5 PoseNet or Vida Libraries to detect motion and create plot points to be manipulated.
+:heavy_exclamation_mark: Problem: Lack of Colour and Diversity of shapes.
+:white_check_mark: Solution: Experiment with colour and shape changing function.
+:heavy_exclamation_mark: Problem: Music only plays and shape only moves on click.
+:white_check_mark: Solution: Have music play when user choses clicks ‘enter’ from welcome page.
 
 ##### Interface Mock ups:
 ![](Mockup1.png)
