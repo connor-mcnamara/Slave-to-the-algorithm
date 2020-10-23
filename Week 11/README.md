@@ -8,3 +8,9 @@ In this week's class we got the chance to have another feedback session with Kar
 
 ### Project Update:
 Since Last week I have made some soild progess within 
+
+#### Project Screen Captures:
+
+![](Week11Landing.png)
+![](Week11vis)
+
