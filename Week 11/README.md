@@ -24,8 +24,8 @@ Since Last week I have made some soild progess within my project sketch. I have 
 * Center buttons with (button.position(width/2 - button.width/2, y);)
 
  **Andy**
- * Experiment with typography/colour... fonts? maybemaybe use an icon (or add a tiny UI) so that some elements are hidden during the experience./
+ * Experiment with typography/colour... fonts? maybemaybe use an icon (or add a tiny UI) so that some elements are hidden during the experience.
  * Bring the user's experience to the foreground (get the bubbles as big as possible, punch out the effect). 
- * Maybe bubbles change colour based on less obvious variables (rather than adding a control)... 
+ * Maybe bubbles change colour based on less obvious variables (rather than adding a control). 
  * Experiment with colours that are less muted. 
  * UI icons can swap with a if/then or while function 
