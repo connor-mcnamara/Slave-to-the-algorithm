@@ -6,7 +6,8 @@ Since last week I have made some progress and also adjustments to my goals. I ha
 ##### Current Sketch Interface:
 ![](Week10Pr.png)
 
-### Posenet Example:
+##### Posenet Example:
 Example of how the the balls movement is working of the nose position based on webcam facial tracking via [ml5 Posenet](https://ml5js.org/reference/api-PoseNet/ "ml5 Posenet").
 
 ![](Nosetracking.png)
+
