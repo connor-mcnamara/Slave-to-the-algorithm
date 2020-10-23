@@ -29,4 +29,4 @@ I first came across his piece 'Gyre 35700' while looking through some generative
 
 'Dynamo, Streamline' By Mark J stock. 'A streamline is a static representation of a dynamic flow. Works in this series were created with an algorithm that was originally designed to study blood flow through artificial heart valves.' [View Project Here](http://markjstock.com/#/streamline/ "View Project Here")
 
-![](
+![](StockMark_Dynamo_2006.jpg)
