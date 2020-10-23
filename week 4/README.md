@@ -1,9 +1,11 @@
+:arrow_left: [PREVIOUS PAGE](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%203 "PREVIOUS PAGE") | [MENU](https://github.com/connor-mcnamara/Slave-to-the-algorithm/blob/master/README.md "MENU")  | [NEXT PAGE](https://github.com/connor-mcnamara/Slave-to-the-algorithm/tree/master/week%205 "NEXT PAGE") :arrow_right:
+
 # Week 4 
 
-## Summary:
+### Summary:
 During this weeks class we continued to explore different possibilities within processing expanding our skills in the specific areas of playing with type and images and some of the interactions that we can create with these. Playing around with different functions such as the 'random function and 'pointillism' sketch really helped open my eyes to the possibilites that could come from coding, I knew code was a powerful tool, but actually playing around with different functions really helped spark my thought process in relation to the possibilites of my generative outcome. 
 
-## Processing Hunting and Gathering example:
+### Processing Hunting and Gathering example:
 While exporing [OpenProcessing](https://www.openprocessing.org/ "OpenProcessing") there where many cool sketches which I stumbled across, a lot of them being quite Mesmerising. This sketch 'Glowing anemone' sketch by CHE YU WU was one that caught my eye in particular, I love the way the multiple coloured elments interact especially upon muse movements. 
 
 
@@ -12,7 +14,7 @@ Sketch Link: https://www.openprocessing.org/sketch/889053#
 ![](Glowing.gif)
 
 
-## Processing Workshop:
+### Processing Workshop:
 
 #### Pointillism self drawing sketch based on photo of myself:
 ![](Week4_2.png)
@@ -21,7 +23,7 @@ Sketch Link: https://www.openprocessing.org/sketch/889053#
 ![](Week4_1.png)
 
 
-## Project Pitch Progress:
+### Project Pitch Progress:
 
 While it’s great that the possibilities are nearly endless for our generative project it also makes it a little bit challenging to pick one direction to start perusing as with every activity we do I begin to think of more and more paths I would love to pursue. At the moment my idea revolves around some I love, that being music festivals. I've been exploring the idea of pitching a Music and Arts festival which incorporates some form of generative art displays as I think this would be such an amazing idea. I know this idea is quite speculative, but it’s not in every class that you are actually given the room to explore such large ideas freely therefore I want to take advantage of this opportunity, obviously going forward this idea may need to be brought back to reality a bit to actually bring it to fruition, but for now I'm thinking quite large and speculatively.
 
